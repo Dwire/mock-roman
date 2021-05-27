@@ -14,6 +14,7 @@ Use this gif as an example of how the app should work.
 - Open the `index.html` file on your browser
 - Write your code in the `index.js` file
 
+
 ## Endpoints
 
 Your base URL for your API will be: http://localhost:3000
